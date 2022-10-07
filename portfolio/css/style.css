@@ -1,0 +1,62 @@
+ /* home page */
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family:'Times New Roman', Times, serif;
+}
+
+.img-logo{
+  background-color:#1868C7 ;
+}
+
+.main-header{
+  text-align: center;
+  
+}
+/* about section */
+
+
+.section {
+  width: 100%;
+  min-height: 100vh;
+  background:white;
+}
+.content-section {
+  float: left;
+  width: 55%;
+}
+
+.img {
+float: right;
+width: 40%;
+}
+
+.img-section {
+width: 100%;
+background-color: black;
+}
+
+
+
+/* footer */
+
+.bottom-section{
+background: white;
+float: end;
+}
+.social-link {
+background-color:white;
+
+}
+
+.button {
+  background: white;
+}
+
+
